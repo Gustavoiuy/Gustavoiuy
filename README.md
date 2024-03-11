@@ -1,4 +1,5 @@
-
+<img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+  
 <br />
 <h2> Hi There, Welcome to my Github profile! <img src="" width="30"></h2>
 
