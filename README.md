@@ -1,4 +1,4 @@
- <img src="https://github.com/AmardeepKesharwani/Amardeepkesharwani/blob/main/image/headers.png?raw=true" width ="100%">
+
 <br />
 <h2> Hi There, Welcome to my Github profile! <img src="" width="30"></h2>
 
