@@ -1,7 +1,9 @@
+<h2> Hi There, Welcome to my Github profile! <img src="" width="30"></h2>
+<hr/>
 <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
   
 <br />
-<h2> Hi There, Welcome to my Github profile! <img src="" width="30"></h2>
+
 
 <p> 
 I am Gustavo Trejo, a passionate self-taught full stack web developer, working in both backend and frontend programming. 
