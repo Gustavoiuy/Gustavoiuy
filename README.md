@@ -3,7 +3,7 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
-I am Amardeep Kesharwani, a passionate self-taught full stack web developer, working in both backend and frontend programming. 
+I am Gustavo Trejo, a passionate self-taught full stack web developer, working in both backend and frontend programming. 
 I love solving problems.
 I have experience in backend as well as frontent development and also
 Love competitive programming.
@@ -83,7 +83,7 @@ Management Systems, Operating Systems
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmardeepKesharwani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
  
-<a href="https://github.com/AmardeepKesharwani">
+<a href="https://github.com/Gustavoiuy">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmardeepKesharwani&theme=blueberry" width="380"/>
 </a>
 </p>
@@ -97,13 +97,13 @@ Management Systems, Operating Systems
 
 ## Connect with me 
 
-<a href="https://www.instagram.com/anuj_kesharwani_/" target="_blank">
+<a href="https://www.instagram.com/trejo_toys/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
- <a href="https://www.facebook.com/anuj.kesharwani.397" target="_blank">
+ <a href="https://www.facebook.com/Youngdev" target="_blank">
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"  style="margin-bottom: 5px;" />
 </a>
- <a href="https://www.sololearn.com/Profile/9151475/?ref=app" target="_blank">
+ <a href="https://www.sololearn.com/Profile/9151475/" target="_blank">
 <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"  style="margin-bottom: 5px;" />
 </a>   
 
